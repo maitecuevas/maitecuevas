@@ -21,6 +21,6 @@ Atualmente migrando de carreira para a área de Análise de Dados, sempre estuda
 - <a href="https://bit.ly/portfolio_Maite">
     Portfólio de Dashboards em Power BI
   </a>
-- <a href="https://bit.ly/portfolio_Maite](https://youtu.be/wYEvCNp9veU?si=T9Zbf92xzuxOymxd">
+- <a href="https://youtu.be/wYEvCNp9veU?si=T9Zbf92xzuxOymxd">
     Apresentação do Projeto Final do Bootcamp de Data Analytics da WomakersCode 
   </a>
