@@ -3,7 +3,7 @@ Atualmente migrando de carreira para a área de Análise de Dados, sempre estuda
 
 - 🏢 Atualmente no cargo de **Oficial administrativo**
 - 🌱 Vegana e apaixonada por **animais**
-- 📐 Formada em Engenharia
+- 📐 Formada em Engenharia de alimentos
 - 🖥️ Atualmente mais focada em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
