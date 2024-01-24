@@ -1,7 +1,7 @@
 ### Maitê Cuevas aqui :)
 Atualmente migrando de carreira para a área de Análise de Dados, sempre estudando para por os ensinamentos em prática! Nas horas vagas amo cuidar de meu cãozinho 🐶, ler sobre astrologia ♓ e praticar yoga 🙆‍♀️! 
 
-- 🏢 **Oficial administrativo** na Prefeitura de São Bernardo do Campo
+- 🏢 Atualmente no cargo de**Oficial administrativo** migrando para área de Dados
 - 🌱 Vegana e apaixonada por **animais**
 - 📐 Formada em Engenharia
 - 🖥️ Atualmente mais focada em:
@@ -20,4 +20,7 @@ Atualmente migrando de carreira para a área de Análise de Dados, sempre estuda
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://bit.ly/portfolio_Maite">
     Portfólio de Dashboards em Power BI
+  </a>
+- <a href="[https://bit.ly/portfolio_Maite](https://youtu.be/wYEvCNp9veU?si=T9Zbf92xzuxOymxd)">
+    Apresentação do Projeto Final do Bootcamp de Data Analytics da WomakersCode 
   </a>
