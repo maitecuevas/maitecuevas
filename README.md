@@ -1,7 +1,7 @@
 ### Maitê Cuevas aqui :)
 Atualmente migrando de carreira para a área de Análise de Dados, sempre estudando para por os ensinamentos em prática! Nas horas vagas amo cuidar de meu cãozinho 🐶, ler sobre astrologia ♓ e praticar yoga 🙆‍♀️! 
 
-- 🏢 Atualmente no cargo de **Oficial administrativo** migrando para área de Dados
+- 🏢 Atualmente no cargo de **Oficial administrativo**
 - 🌱 Vegana e apaixonada por **animais**
 - 📐 Formada em Engenharia
 - 🖥️ Atualmente mais focada em:
